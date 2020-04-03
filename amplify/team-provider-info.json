@@ -1,0 +1,15 @@
+{
+    "env": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-valorwatch-env-223816-authRole",
+            "UnauthRoleArn": "arn:aws:iam::257392684123:role/amplify-valorwatch-env-223816-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::257392684123:role/amplify-valorwatch-env-223816-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-valorwatch-env-223816-deployment",
+            "UnauthRoleName": "amplify-valorwatch-env-223816-unauthRole",
+            "StackName": "amplify-valorwatch-env-223816",
+            "StackId": "arn:aws:cloudformation:us-east-1:257392684123:stack/amplify-valorwatch-env-223816/8e31c990-755c-11ea-9866-0a531bfc577e",
+            "AmplifyAppId": "d17qll19s1693n"
+        }
+    }
+}
